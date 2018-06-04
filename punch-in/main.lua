@@ -56,7 +56,7 @@ for var = 1, 3 do
     if x ~= -1 and y ~= -1 then
         click(x, y);
     else
-        click(93, 976);
+        click(137, 1562);
     end
     mSleep(20000);
 
